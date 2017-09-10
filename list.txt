@@ -1,11 +1,4 @@
-<<<<<<< HEAD
+
 This is the first commit
 
 This is the second commit
-
-This is the third commit
-
-This is the fourth commit
-=======
-This is the first commit
->>>>>>> parent of 94f7cfd... this is the second commit
